@@ -29,7 +29,7 @@ Key columns:
 
 ---
 ## Dashboard
-![Dashboard](tableau_dashboard/retail_sales_dashboard.png)
+![Dashboard](tableau_dashboard/sales_dashboard.png)
 
 ---
 ## Key Insights
