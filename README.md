@@ -28,7 +28,7 @@ Key columns:
 - Relationship between discount levels and profitability  
 
 ---
-## Dashboard
+## Tableau Dashboard
 ![Dashboard](tableau_dashboard/sales_dashboard.png)
 
 ---
